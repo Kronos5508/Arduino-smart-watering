@@ -128,5 +128,5 @@ Open `automatic\_watering.ino` and adjust the following variable if necessary:
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/your-username/arduino-smart-watering.git](https://github.com/your-username/arduino-smart-watering.git)
+&#x20;  git clone \[https://github.com/Kronos5508/arduino-smart-watering.git](https://github.com/Kronos5508/arduino-smart-watering.git)
 
